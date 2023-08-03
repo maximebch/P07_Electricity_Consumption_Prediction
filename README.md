@@ -1,0 +1,2 @@
+# P07_Electricity_Consumption_Prediction
+Predicting electricity consumption for an energy supplier
